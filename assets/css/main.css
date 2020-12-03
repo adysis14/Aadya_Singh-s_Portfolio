@@ -12,7 +12,9 @@
 	top:0;
 	left: 0;
 	width: 100%;
-	height: 100%;.iframe-container{
+	height: 100%;
+  }
+	.iframe-container{
 		position: relative;
 		width: 100%;
 		padding-bottom: 56.25%; 
@@ -25,7 +27,7 @@
 		width: 100%;
 		height: 100%;
 	  }
-  }
+ 
 
   /* first image responsive class */
   .newresponsive {
@@ -3026,7 +3028,8 @@ input, select, textarea {
 				}
 
 			.gallery a.portrait img {
-				height: 30vw;
+				height: 45vh;
+				width: 40vw;
 			}
 
 		.gallery .modal {
