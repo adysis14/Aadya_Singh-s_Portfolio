@@ -3172,6 +3172,7 @@ input, select, textarea {
 
 			.gallery a.portrait img {
 				height: 25rem;
+				width: 34rem;
 			}
 
 			.gallery .modal .inner img {
@@ -3218,7 +3219,8 @@ input, select, textarea {
 			}
 
 			.gallery a.portrait img {
-				height: 14rem;
+				height: 15rem;
+    			width: 21rem;
 			}
 
 		}
@@ -3429,7 +3431,7 @@ input, select, textarea {
 					}
 
 				#wrapper > section.intro > .content {
-					height: 135vh ;
+					height: 140vh ;
 					max-width: none;
 				}
 
@@ -3707,7 +3709,7 @@ input, select, textarea {
 					}
 
 					#wrapper > section.intro {
-						margin-bottom: 0;
+						margin-bottom: -360px;
 					}
 
 						#wrapper > section.intro > header {
